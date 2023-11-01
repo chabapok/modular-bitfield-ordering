@@ -6,6 +6,11 @@ authors = ["Pelepichenko Alexander <chabapok@gmail.com>"]
 license = "MIT/Apache-2.0"
 readme = "README.md"
 
+repository = "https://github.com/chabapok/modular-bitfield-ordering"
+documentation = "https://docs.rs/modular-bitfield-ordering"
+description = "Provide u8be..u128be, u8le..u128le for modular-bitfield"
+categories = ["data-structures", "no-std"]
+keywords   = ["bitfield", "bit", "bitfields"]
 
 [dependencies]
 modular-bitfield = "0"
